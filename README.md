@@ -10,7 +10,7 @@
     <td width="50%" valign="top">
       <h2>Sobre mim</h2>
       <div align="justify">
-      <p>Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Rio. Durante a minha trajetória acadêmica, absorvi conceitos e estruturas que me proporcionaram um know-how sobre o ciclo de desenvolvimento de software. Hoje, busco aplicar esse aprendizado em cenários reais e práticos.</p>
+      <p>Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Rio. Durante a minha trajetória acadêmica, absorvi conceitos e práticas que me proporcionaram um know-how sobre o ciclo de desenvolvimento de software. Hoje, busco aplicar esse aprendizado em cenários reais e práticos.</p>
       </div>
       <ul>
         <li>🎓 <strong>Formado em Análise e Desenvolvimento de Sistemas</strong></li>
