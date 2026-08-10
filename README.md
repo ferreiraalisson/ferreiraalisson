@@ -83,6 +83,8 @@
 <br />
 <div>
   <h1>Projetos:</h1>
-      <a href="https://github.com/ferreiraalisson/Check-infra"><h2>Check-infra</h2></a>
+  <a href="https://github.com/ferreiraalisson/Check-infra" target="_blank">
+    <h2>Check-infra</h2>
+  </a>
 </div>
 
